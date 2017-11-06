@@ -1,5 +1,6 @@
 # Hotel-Manager
-  Goal
+  **bold**Goal
+  
   Quản lí phòng và khách sạn
   
   Business Objectives
