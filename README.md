@@ -1,9 +1,9 @@
 # Hotel-Manager
-###Goal
+### Goal
   
   Quản lí phòng và khách sạn
   
-  Business Objectives
+###  Business Objectives
   
     *Thêm/sửa/xóa thông tin phòng.
     
