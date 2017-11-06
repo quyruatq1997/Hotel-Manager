@@ -1,5 +1,5 @@
 # Hotel-Manager
-  **bold**Goal
+  **Goal**
   
   Quản lí phòng và khách sạn
   
